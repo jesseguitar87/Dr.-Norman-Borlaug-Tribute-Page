@@ -1,0 +1,93 @@
+body {
+  background-color: white;
+  padding: 27px 7px 27px 7px;
+}
+
+#main {
+  background-color: #EEEEEE;
+  border-radius: 5px;
+}
+
+#title {
+  height: 120px;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  color: #333333;
+  padding-top: 40px;
+}
+
+#subtitle {
+  text-align: center;
+  font-weight: 400;
+}
+
+#img-div {
+  background-color: #EEEEEE;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+  border-radius: 5px;
+  border: 8px solid white;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+#img-caption {
+  margin-left: 13px;
+  padding-top: 7px;
+  background-color: white;
+  height: 45px;
+  width: 1040px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  padding-left: 40px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+#info-title {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  color: #333333;
+  margin-top: 50px;
+}
+
+#info-list {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+.info-list-item {
+  margin-top: 15px;
+}
+
+#date {
+  font-weight: 700;
+  color: #333333;
+}
+
+#quote {
+  margin-left: 250px;
+  margin-top: 50px;
+}
+
+#quoter {
+  margin-left: 250px;
+}
+
+footer {
+  margin-top: 50px;
+  font-weight: 700;
+  font-size: 17px;
+  text-align: center;
+  padding-bottom: 45px;
+}
+
+#tribute-link {
+  text-decoration: underline;
+}
